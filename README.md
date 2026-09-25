@@ -41,6 +41,9 @@ Experiments that put models to work on a specific task.
       <h3><a href="https://github.com/neallawson/idmeme">idmeme</a></h3>
       An AI project exploring generated identity and memes.
       <br /><br />
+      <img src="https://img.shields.io/badge/stack-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/stack-Node.js-5FA04E?logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/stack-Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte" />
       <img src="https://img.shields.io/badge/topic-ai-7c3aed" alt="AI" />
     </td>
   </tr>
@@ -52,9 +55,9 @@ Experiments that put models to work on a specific task.
 
 <a id="arcade"></a>
 
-## Take-A-Break Arcade
+# 🎮 Take-A-Break Arcade
 
-A short-session arcade for when you need a break. Play it at **[neallawson.com](https://neallawson.com/arcade.html)**.
+A short-session arcade for when you need a break. Play it at **[neallawson.com/arcade.html](https://neallawson.com/arcade.html)**.
 
 <table>
   <tr>
@@ -69,6 +72,7 @@ A short-session arcade for when you need a break. Play it at **[neallawson.com](
       <h3><a href="https://github.com/neallawson/cannons">Cannons</a></h3>
       Cannon battle for the arcade — destroy the other castle, or be destroyed.
       <br /><br />
+      <img src="https://img.shields.io/badge/stack-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/topic-games-2563eb" alt="Games" />
     </td>
   </tr>
@@ -91,6 +95,7 @@ Full applications with real create, read, update, and delete — data in, data o
       A Soccer management application currently under development.
       <br /><br />
       <img src="https://img.shields.io/badge/status-under%20development-orange" alt="Under development" />
+      <img src="https://img.shields.io/badge/stack-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/topic-crud-0f766e" alt="CRUD" />
     </td>
   </tr>
@@ -120,6 +125,9 @@ Scripts and tools for jobs that should stay small: files, hashes, downloads, and
       Find duplicate files by size and content hash.
       <br /><br />
       <img src="https://img.shields.io/badge/status-in%20progress-yellow" alt="In progress" />
+      <img src="https://img.shields.io/badge/stack-Go-00ADD8?logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/stack-Wails-DF0000?logo=wails&logoColor=white" alt="Wails" />
+      <img src="https://img.shields.io/badge/stack-Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte" />
       <img src="https://img.shields.io/badge/topic-utilities-92400e" alt="Utilities" />
     </td>
   </tr>
@@ -139,6 +147,7 @@ Helpers around [yt-dlp](https://github.com/yt-dlp/yt-dlp) / yt-dlp workflows —
       <h3><a href="https://github.com/neallawson/yt-id">yt-id</a></h3>
       Parse file titles, extract ytid, Extract author/title, and plan move and renames in a pipeline/workflow.
       <br /><br />
+      <img src="https://img.shields.io/badge/stack-Python-3776AB?logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/topic-utilities-92400e" alt="Utilities" />
       <img src="https://img.shields.io/badge/related-yt--dlp-ff0000" alt="yt-dlp" />
     </td>
@@ -146,6 +155,7 @@ Helpers around [yt-dlp](https://github.com/yt-dlp/yt-dlp) / yt-dlp workflows —
       <h3><a href="https://github.com/neallawson/ytmove">ytmove</a></h3>
       Move and organize yt-dlp downloads.
       <br /><br />
+      <img src="https://img.shields.io/badge/stack-Perl-39457E?logo=perl&logoColor=white" alt="Perl" />
       <img src="https://img.shields.io/badge/topic-utilities-92400e" alt="Utilities" />
       <img src="https://img.shields.io/badge/related-yt--dlp-ff0000" alt="yt-dlp" />
     </td>
