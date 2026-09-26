@@ -39,7 +39,7 @@ Experiments that put models to work on a specific task.
   <tr>
     <td valign="top" width="100%">
       <h3><a href="https://github.com/neallawson/idmeme">idmeme</a></h3>
-      An AI project exploring generated identity and memes.
+      An AI project exploring image identification and classification, specifically for memes.
       <br /><br />
       <img src="https://img.shields.io/badge/stack-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/stack-Node.js-5FA04E?logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -63,14 +63,14 @@ A short-session arcade for when you need a break. Play it at **[neallawson.com/a
   <tr>
     <td valign="top" width="33%">
       <h3><a href="https://github.com/neallawson/Asteroids-TS">Asteroids</a></h3>
-      TypeScript Asteroids built for the arcade — dodge rocks, shoot back, infinite play.
+      Classic, continuous action — dodge and shoot rocks and alien saucers. Infinite play.
       <br /><br />
       <img src="https://img.shields.io/badge/stack-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/topic-games-2563eb" alt="Games" />
     </td>
     <td valign="top" width="33%">
       <h3><a href="https://github.com/neallawson/cannons">Cannons</a></h3>
-      Cannon battle for the arcade — destroy the other castle, or be destroyed.
+      Two castles on opposing hills engage in cannon warfare. Single or double player. Watch the wind flag.
       <br /><br />
       <img src="https://img.shields.io/badge/stack-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/topic-games-2563eb" alt="Games" />
@@ -86,7 +86,7 @@ A short-session arcade for when you need a break. Play it at **[neallawson.com/a
 
 # 🗃️ CRUD Applications
 
-Full applications with real create, read, update, and delete — data in, data out, and the work in between.
+Full CRUD applications in progress.
 
 <table>
   <tr>
@@ -109,7 +109,7 @@ Full applications with real create, read, update, and delete — data in, data o
 
 # 🛠️ Utilities
 
-Scripts and tools for jobs that should stay small: files, hashes, downloads, and the shell.
+Scripts and tools for a variety of tasks. Bash, python, perl, Go.
 
 <table>
   <tr>
